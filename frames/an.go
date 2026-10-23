@@ -1,7 +1,7 @@
 package frames
 
 // Giá trị này sẽ được lưu trong FrameMap
-var AnHu = DefaultFrameType(anHuFrames)
+var AnHu = DefaultFrameType("an": AnHu,)
 
 var anHuFrames = []string{
 	"                                                                                    \n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n                                                                                   I\n ",
